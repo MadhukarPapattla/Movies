@@ -36,6 +36,7 @@ const App = () => {
                     src={SearchIcon}
                     alt="search"
                     onClick={() => searchMovies(searchTerm)}
+                    
                 />
             </div>
 
